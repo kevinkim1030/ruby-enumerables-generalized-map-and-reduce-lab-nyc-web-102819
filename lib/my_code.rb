@@ -1,4 +1,4 @@
-[1,2,3,-9].map do |num|
+[array].map do |num|
   num * -1
 end
 
